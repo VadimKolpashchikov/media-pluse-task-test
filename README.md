@@ -1,1 +1,1 @@
-# media-pluse-task-test
+# Медиа Плюс тестовое задание на junior frontend-разработчик.
